@@ -30,4 +30,5 @@ I am a Full-Stack software engineer and musician
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask"  alt="Flask" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="AQLAlchemy"  alt="SQLAlchemy" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Sequelize"  alt="Sequelize" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Sequelize"  alt="Sequelize" width="40" height="40"/>&nbsp;
 </p>
