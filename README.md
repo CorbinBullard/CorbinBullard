@@ -1,22 +1,18 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **CorbinBullard/CorbinBullard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- - 🔭 I’m currently working on -->
+- 🌱 I’m currently learning the .NET framework <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="Dotnet" alt="Dotnet" width="40" height="40"  />&nbsp;
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/corbin-b-ab572b98/" target="_blank">Linked In</a>
+
+
 I am a Full-Stack software engineer and musician!
 
-These are the technologies I use...
+These are the technologies I use!
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
