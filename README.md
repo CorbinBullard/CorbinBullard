@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on -->
-- 🌱 I’m currently learning the .NET framework <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="Dotnet" alt="Dotnet" width="40" height="40"  />&nbsp;
+- 🌱 I’m currently learning Next.js and Typescript
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/corbin-b-ab572b98/" target="_blank">LinkedIn</a>
 
 
