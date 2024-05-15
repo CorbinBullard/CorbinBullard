@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on -->
-- 🌱 I’m currently learning Next.js and Typescript
+- 🌱 I’m currently learning Next.js and NestJs
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/corbin-b-ab572b98/" target="_blank">LinkedIn</a>
 
 
